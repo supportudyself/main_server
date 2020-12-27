@@ -1001,7 +1001,7 @@ section {
 # Frequently Asked Questions
 --------------------------------------------------------------*/
 .faq {
-  background: linear-gradient(180deg, #a973e6 0%, #efedf1 100%);
+  background: linear-gradient(180deg, #202020 0%, #efedf1 100%);
 }
 
 .faq .section-title h2, .faq .section-title p {
